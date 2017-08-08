@@ -939,3 +939,4 @@ if 'geonode.geoserver' in INSTALLED_APPS:
 
 # define the CAS version
 CAS_VERSION = 3
+PASSWORD_RESET_LINK = "https://ssp.dream.upd.edu.ph/?action=sendtoken"
